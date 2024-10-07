@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mommycat</string>
+    <string name="price_format">Price: $%1$.2f</string>
+    <string name="cat_price" />
+</resources>

@@ -1,0 +1,15 @@
+<!-- bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/homeicon"
+        android:title="home" />
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/cart"
+        android:title="cart" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="profile" />
+</menu>
